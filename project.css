@@ -81,7 +81,7 @@ nav a:focus{
 }
 .hero{
     background-color:#5a5a5a;
-    background-image: url(../image/bagh.jpg);
+    background-image: url(bagh.jpg);
     background-blend-mode:multiply;
     background-attachment: fixed;
     background-size: cover;
@@ -94,7 +94,7 @@ text-align: center;
 }
 .about-us{
     background-color: #764981;
-    background-image: url(../image/pexels-pixabay-258154.jpg);
+    background-image: url(pexels-pixabay-258154.jpg);
     background-blend-mode: multiply;
     background-attachment: fixed;
     color: aliceblue;
@@ -103,7 +103,7 @@ text-align: center;
     padding:0;
 }
 .about-us__intro{
-    background-image: url(../image/pexels-maria-salazar-879010.jpg);
+    background-image: url(pexels-maria-salazar-879010.jpg);
 background-size: cover;
 }
 .section-title1{
